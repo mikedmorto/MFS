@@ -1,0 +1,22 @@
+#ifndef DEF_H
+#define DEF_H
+
+#define GIT_VERSION "${GIT_VERSION}"
+#define VERSION "${VERSION}"
+#define DBVER "0.0-dev"
+#define APIVER "0.0-dev"
+#define APPNAME "fsd"
+#define DEFSEST 500
+#define HBAR "========================"
+#define FSTMP "/tmp"
+
+#define FORMAT_DATE "yyyy-MM-dd"
+#define FORMAT_TIME "hh:mm:ss"
+#define FORMAT_DATETIME "yyyy-MM-dd hh:mm:ss"
+
+#define FSBUFF 1024000
+
+#define POST "POST"
+#define JSON "application/json"
+
+#endif // DEF_H
